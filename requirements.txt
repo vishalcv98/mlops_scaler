@@ -12,3 +12,4 @@ yfinance==1.6.0
 
 # Notebook kernel
 ipykernel==7.3.0
+flask
