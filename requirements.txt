@@ -1,15 +1,15 @@
 # Core data / ML
-numpy==2.5.2
-pandas==3.0.5
-scikit-learn==1.9.0
-xgboost==3.4.1
+numpy
+pandas
+scikit-learn
+xgboost
 
 # Streamlit apps
-streamlit==1.61.1
+streamlit
 
 # Market data (streamlit_apps/finance_app.py, notebooks/finance_example.ipynb)
-yfinance==1.6.0
+yfinance
 
 # Notebook kernel
-ipykernel==7.3.0
+ipykernel
 flask
