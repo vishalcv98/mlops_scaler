@@ -1,5 +1,5 @@
 {
-  "taskDefinitionArn": "arn:aws:ecs:ap-south-1:066263929193:task-definition/car-price-task:9",
+  "taskDefinitionArn": "arn:aws:ecs:ap-south-1:066263929193:task-definition/car-price-task:10",
   "containerDefinitions": [
     {
       "name": "Main",
